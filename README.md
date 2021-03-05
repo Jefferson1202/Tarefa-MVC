@@ -5,5 +5,6 @@ Link do tutorial:
 
 # IDE
 * Visual Studio Code
+* Versão: 1.54.0 
 
 
