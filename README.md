@@ -7,4 +7,10 @@ Link do tutorial:
 * Visual Studio Code
 * Versão: 1.54.0 
 
+#Linguagens
+
+* C#
+* JavaScript
+* 
+
 
